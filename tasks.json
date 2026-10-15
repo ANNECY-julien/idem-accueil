@@ -1,0 +1,171 @@
+{
+ "maj": "2026-10-15T15:45+02:00",
+ "cats": {
+  "laverie": {
+   "n": "Laverie",
+   "c": "#4aa3b5"
+  },
+  "pro": {
+   "n": "Pro",
+   "c": "#4f8bd0"
+  },
+  "marketing": {
+   "n": "Marketing",
+   "c": "#e07a4b"
+  },
+  "perso": {
+   "n": "Perso",
+   "c": "#c0709a"
+  },
+  "compta": {
+   "n": "Comptabilité",
+   "c": "#8a7bd6"
+  },
+  "domic": {
+   "n": "Domiciliation",
+   "c": "#d99a2b"
+  },
+  "internet": {
+   "n": "Internet",
+   "c": "#3aa58c"
+  }
+ },
+ "taches": [
+  {
+   "i": "2486ab22",
+   "t": "Prendre RDV Dentiste",
+   "k": "perso",
+   "f": "single",
+   "due": "2026-09-28",
+   "p": 0
+  },
+  {
+   "i": "285c08ab",
+   "t": "Changement gérant + vente part",
+   "k": "pro",
+   "f": "single",
+   "due": "2026-09-10",
+   "p": 95
+  },
+  {
+   "i": "3095c96b",
+   "t": "nettoyage magasin",
+   "k": "pro",
+   "f": "weekly",
+   "wd": 4,
+   "c": [
+    "2026-W37",
+    "2026-W38",
+    "2026-W39",
+    "2026-W41",
+    "2026-W42"
+   ]
+  },
+  {
+   "i": "364eb818",
+   "t": "Emailing calendrier",
+   "k": "pro",
+   "f": "single",
+   "due": "2026-09-21",
+   "d": 1,
+   "p": 70
+  },
+  {
+   "i": "49c91ba1",
+   "t": "Verif Dom Documents / paiement KBIS",
+   "k": "domic",
+   "f": "monthly",
+   "n": 3,
+   "wd": 2,
+   "c": [
+    "2026-09"
+   ]
+  },
+  {
+   "i": "4aa6f155",
+   "t": "Déclaration Domiciliation",
+   "k": "domic",
+   "f": "quarterly",
+   "mo": 0,
+   "n": 1,
+   "wd": 2,
+   "c": [
+    "2026-Q3",
+    "2026-Q4"
+   ]
+  },
+  {
+   "i": "6e992312",
+   "t": "Faire le business plan Laverie",
+   "k": "laverie",
+   "f": "single",
+   "due": "2026-09-11",
+   "p": 95
+  },
+  {
+   "i": "8a284e8e",
+   "t": "faire audit SEO speed IDEM DOMICILIATION",
+   "k": "perso",
+   "f": "single",
+   "due": "2026-10-05",
+   "d": 1,
+   "p": 10
+  },
+  {
+   "i": "acb6796e",
+   "t": "Faire audit SEO Site internet Idem Solutions",
+   "k": "pro",
+   "f": "single",
+   "due": "2026-09-28",
+   "p": 100
+  },
+  {
+   "i": "b50fb183",
+   "t": "finir ouverture Domiciliation",
+   "k": "domic",
+   "f": "single",
+   "due": "2026-10-12",
+   "p": 0
+  },
+  {
+   "i": "cd6dc414",
+   "t": "Faire déclaration Mensuelle BP + RECAP CONTRAT",
+   "k": "domic",
+   "f": "single",
+   "due": "2026-10-05",
+   "d": 1,
+   "p": 0
+  },
+  {
+   "i": "dddf5637",
+   "t": "Mailing Papier",
+   "k": "pro",
+   "f": "monthly",
+   "n": -1,
+   "wd": 2,
+   "c": []
+  },
+  {
+   "i": "e2dd537a",
+   "t": "Test vitesse Crash Site internet",
+   "k": "internet",
+   "f": "monthly",
+   "n": 2,
+   "wd": 0,
+   "c": [
+    "2026-09"
+   ]
+  },
+  {
+   "i": "fbe33a3f",
+   "t": "TVA CALCUL / relance Facture",
+   "k": "compta",
+   "f": "monthly",
+   "n": 3,
+   "wd": 2,
+   "c": [
+    "2026-09"
+   ]
+  }
+ ]
+}
