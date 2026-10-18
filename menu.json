@@ -1,0 +1,171 @@
+{
+ "maj": "2026-10-18T15:33+02:00",
+ "semaines": [
+  "2026-10-02",
+  "2026-10-09",
+  "2026-10-16",
+  "2026-10-23"
+ ],
+ "menus": {
+  "2026-10-02": {
+   "m": [
+    "",
+    "Poulet au curry et lait de coco"
+   ],
+   "s": [
+    "1/2 Tarte au thon",
+    ""
+   ]
+  },
+  "2026-10-05": {
+   "m": [
+    "",
+    "poulet"
+   ],
+   "s": [
+    "",
+    ""
+   ]
+  },
+  "2026-10-06": {
+   "m": [
+    "",
+    ""
+   ],
+   "s": [
+    "salade verte",
+    "Quiche lorraine"
+   ]
+  },
+  "2026-10-08": {
+   "m": [
+    "",
+    ""
+   ],
+   "s": [
+    "carotte rapée",
+    "Quiche lorraine"
+   ]
+  },
+  "2026-10-09": {
+   "m": [
+    "",
+    "1/2 cuisse de dinde"
+   ],
+   "s": [
+    "Haricots verts",
+    "1/2 cuisse de dinde"
+   ]
+  },
+  "2026-10-10": {
+   "m": [
+    "",
+    ""
+   ],
+   "s": [
+    "",
+    "Pâtes aux courgettes, tomate et chèvre frais"
+   ]
+  },
+  "2026-10-11": {
+   "m": [
+    "",
+    "roti de porc"
+   ],
+   "s": [
+    "",
+    "Légumes au four"
+   ]
+  },
+  "2026-10-12": {
+   "m": [
+    "",
+    "Poulet"
+   ],
+   "s": [
+    "",
+    "Grosse tranche de jambon avec oeuf au plat"
+   ]
+  },
+  "2026-10-13": {
+   "m": [
+    "",
+    ""
+   ],
+   "s": [
+    "",
+    "Poke bowl au saumon, riz, avocat , carotte, mais"
+   ]
+  },
+  "2026-10-14": {
+   "m": [
+    "",
+    ""
+   ],
+   "s": [
+    "",
+    "pad thai crevette"
+   ]
+  },
+  "2026-10-15": {
+   "m": [
+    "",
+    "poulet"
+   ],
+   "s": [
+    "",
+    "Salade de pâtes avec cuisse de dinde"
+   ]
+  },
+  "2026-10-16": {
+   "m": [
+    "",
+    ""
+   ],
+   "s": [
+    "",
+    "Poke bowl au saumon, riz, avocat , carotte, mais"
+   ]
+  },
+  "2026-10-18": {
+   "m": [
+    "",
+    "Macédoine de légumes au jambon"
+   ],
+   "s": [
+    "",
+    "1/2 Tarte au thon"
+   ]
+  },
+  "2026-10-19": {
+   "m": [
+    "",
+    "poulet"
+   ],
+   "s": [
+    "",
+    "1/2 cuisse de dinde"
+   ]
+  },
+  "2026-10-20": {
+   "m": [
+    "",
+    "1/2 cuisse de dinde"
+   ],
+   "s": [
+    "",
+    "1/2 Tarte au thon"
+   ]
+  },
+  "2026-10-21": {
+   "m": [
+    "",
+    ""
+   ],
+   "s": [
+    "",
+    "gratin de potimarron et pomme de terre et 1/2 poulet"
+   ]
+  }
+ }
+}
