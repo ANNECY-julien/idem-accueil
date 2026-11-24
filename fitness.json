@@ -1,16 +1,16 @@
 {
   "date": "2026-11-24",
-  "maj": "2026-11-24T17:45:00",
-  "moment": "17 h",
+  "maj": "2026-11-24T20:20:00",
+  "moment": "soir",
   "seance": {
-    "titre": "Elliptique + muscu (dos et obliques)",
-    "duree": "40 min",
+    "titre": "Elliptique (fait)",
+    "duree": "25 min",
     "exercices": [
-      "Elliptique 5 min niveau 6 à 50-55 tr/min, puis 20 min niveau 9-11 à 55-60 tr/min (120-130 bpm)",
-      "Rowing assis 4×12, prise neutre, coudes près du corps, charge légère",
-      "Rotary torso 4×12 par côté, départ 25 kg, rotation lente"
+      "Elliptique : 5 min d'échauffement, 20 min d'effort",
+      "Appareil : 138 bpm à la fin des 25 min",
+      "Muscu (dos et obliques) reportée à jeudi"
     ]
   },
-  "conseil": "On alterne les 2 appareils avec 60 s de repos. Les 2 dernières reps doivent être dures mais propres, sinon +1 cran. Épaule qui tire : on baisse ou on saute. Pensez à bien boire.",
+  "conseil": "Bonne séance, 138 bpm en fin d'effort, c'est le haut de la zone : hydrate-toi et étire-toi doucement. Demain, repos complet. Jeudi, vélo puis muscu : rowing assis et rotary torso, charge légère.",
   "demain": "Repos"
 }
