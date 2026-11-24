@@ -8,5 +8,6 @@ Données publiques de la page d'accueil Idem.
 - `cigarettes.json` : nombre de cigarettes fumées par jour (copie du Carnet Idem), pour la tuile « Cigarettes » (économies depuis le départ et sur 30 jours).
 - `sync_cigarettes.py` : régénère `cigarettes.json` à partir d'un export du Carnet (dossier `entries/`).
 - `sync_tasks.py` : régénère `tasks.json` à partir d'un export du Carnet (voir l'en-tête du script).
+- `fitness.json` : séance du jour et conseils du coach (exercices, conseil, séance de demain), mis à jour le matin et à 17 h, lu par la tuile « Fitness du jour ».
 
 Le fichier est public : n'y mettre que des intitulés de tâches dont la publication ne pose pas de problème.
