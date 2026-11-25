@@ -1,12 +1,16 @@
 {
   "date": "2026-11-25",
-  "maj": "2026-11-25T06:55:00",
-  "moment": "matin",
+  "maj": "2026-11-25T18:20:00",
+  "moment": "soir",
   "seance": {
-    "titre": "Repos",
-    "duree": "0 min",
-    "exercices": []
+    "titre": "Vélo + muscu (faite)",
+    "duree": "",
+    "exercices": [
+      "Vélo : plus simple à 90 tr/min qu'à 70 en niveau 10 ; fini sur le vélo assis",
+      "Diverging seated row : 27 kg (32 trop dur)",
+      "Rotary torso : 25 kg"
+    ]
   },
-  "conseil": "Deux belles séances depuis lundi : aujourd'hui, on récupère. Bois bien, étire-toi doucement (mollets, cuisses) et ménage le genou et le quadriceps droit. Demain, vélo en souplesse puis muscu légère.",
-  "demain": "Vélo + muscu (dos et obliques)"
+  "conseil": "Trois séances en trois jours, bravo. Au rowing, reste à 27 kg la prochaine fois. Pour le quadriceps, garde un pédalage rapide (90 tr/min) et léger, évite le niveau 10 à 70 tr/min. Demain, repos complet : bois bien et étire-toi doucement.",
+  "demain": "Repos"
 }
