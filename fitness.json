@@ -1,12 +1,18 @@
 {
-  "date": "2026-11-26",
-  "maj": "2026-11-26T16:50:58",
-  "moment": "17 h",
+  "date": "2026-11-27",
+  "maj": "2026-11-27T06:50:54",
+  "moment": "matin",
   "seance": {
-    "titre": "Repos",
-    "duree": "",
-    "exercices": []
+    "titre": "Elliptique – intervalles (optionnelle)",
+    "duree": "40 min",
+    "exercices": [
+      "Échauffement 5 min, niveau 6 à 8, tranquille",
+      "8 fois : 3 min faciles (niveau 9 à 11), puis 45 s fort (niveau 16 à 18)",
+      "Pendant l'effort fort : tu peux encore dire quelques mots",
+      "Retour au calme 5 min, niveau 6",
+      "Étirements doux des cuisses et des mollets"
+    ]
   },
-  "conseil": "Ce soir, on récupère : bois bien, fais quelques étirements doux et couche-toi tôt. Demain, la séance est optionnelle : fais-la seulement si tu te sens bien, avec une résistance modérée et un échauffement de 5 minutes. Au moindre signe de gêne, allège l'effort ou arrête-toi.",
-  "demain": "Optionnelle : elliptique, intervalles de 45 s"
+  "conseil": "Cette séance est un bonus : fais-la seulement si tu te sens bien, sinon repos sans regret. Si la cuisse ou le genou tire, baisse le niveau ou arrête les intervalles et continue en douceur. Si l'épaule fatigue, tiens les poignées fixes, et pense à boire avant de commencer.",
+  "demain": "Repos"
 }
