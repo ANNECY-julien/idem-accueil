@@ -1,17 +1,12 @@
 {
-  "date": "2026-11-27",
-  "maj": "2026-11-27T16:50:58",
-  "moment": "17 h",
+  "date": "2026-11-28",
+  "maj": "2026-11-28T06:50:36",
+  "moment": "matin",
   "seance": {
-    "titre": "Elliptique – intervalles (faite)",
-    "duree": "31 min",
-    "exercices": [
-      "Échauffement tranquille",
-      "Alternance de moments faciles et de moments forts",
-      "Retour au calme en douceur",
-      "Étirements doux des cuisses et des mollets"
-    ]
+    "titre": "Repos",
+    "duree": "—",
+    "exercices": []
   },
-  "conseil": "Bravo, la séance est faite : ce soir, bois bien, étire-toi sans forcer et profite d'une bonne nuit. Ce week-end, repos ou petite marche, et ménage tes bras. Mardi, muscu des jambes et des lombaires sans pousser ni tirer avec les bras, et sur la machine cardio garde un effort où tu peux encore parler un peu.",
+  "conseil": "Aujourd'hui, récupère : bois bien et, si tu en as envie, fais une petite marche tranquille avec des étirements doux des cuisses et des mollets. Ménage tes bras, sans porter ni forcer inutilement, et demande un avis médical si les courbatures durent ou si une douleur vive apparaît.",
   "demain": "Repos"
 }
